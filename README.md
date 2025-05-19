@@ -67,21 +67,17 @@ cd hr-data-portfolio
 
 
 
-<<<<<<< HEAD
-=======
-📝 License
-This project is licensed under the MIT License. See the LICENSE file for more information.
+## 📝 License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information..
 
 
 
-
->>>>>>>  (Add LICENSE and update README)
 
 ## 📎 Related Links
-Medium Blog Post – https://medium.com/@helennellieadigwe/unlocking-hr-insights-a-data-driven-exploration-with-python (update this once your HR blog is live)
->>>>>>> 
+-Medium Blog Post – [From Messy to Meaningful: Showcasing the Power of Data in Uncovering Hidden Patterns and Transforming HR Insights](https://medium.com/@helennellieadigwe/from-messy-to-meaningful-showcasing-the-power-of-data-in-uncovering-hidden-patterns-and-9134c73d77bb) (update this once your HR blog is live)
 
-GitHub Repository – https://github.com/hnadigwe/hr-data-portfolio
+
+-GitHub Repository – [hr-data-portfolio](https://github.com/hnadigwe/hr-data-portfolio)
 
 
 
