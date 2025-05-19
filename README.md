@@ -68,13 +68,13 @@ cd hr-data-portfolio
 
 
 ## 📝 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information..
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/hnadigwe/hr-data-portfolio/blob/main/LICENSE) file for more information..
 
 
 
 
 ## 📎 Related Links
--Medium Blog Post – [From Messy to Meaningful: Showcasing the Power of Data in Uncovering Hidden Patterns and Transforming HR Insights](https://medium.com/@helennellieadigwe/from-messy-to-meaningful-showcasing-the-power-of-data-in-uncovering-hidden-patterns-and-9134c73d77bb) (update this once your HR blog is live)
+-Medium Blog Post – [From Messy to Meaningful: Showcasing the Power of Data in Uncovering Hidden Patterns and Transforming HR Insights](https://medium.com/@helennellieadigwe/from-messy-to-meaningful-showcasing-the-power-of-data-in-uncovering-hidden-patterns-and-9134c73d77bb) 
 
 
 -GitHub Repository – [hr-data-portfolio](https://github.com/hnadigwe/hr-data-portfolio)
@@ -90,4 +90,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ### Performance Score	A qualitative rating of employee performance
 ### Years of Experience	Difference between current date and joining date
 ### Missing Data	Null or empty values requiring cleanup or imputation
-
+### Boxplot: A visualization that shows the distribution, median, and outliers in a dataset.
+### Outliers: Values that are significantly different from the majority of the data.
+### Categorical Data: Data that represents categories or labels (e.g., Gender, Department).
+### Null Values: Missing entries in the dataset.
+### Code Repository: A link to the GitHub repository containing the code used for the analysis.
+### Data Dictionary: A detailed description of the variables and data used in the analysis.
